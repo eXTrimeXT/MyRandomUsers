@@ -16,6 +16,7 @@ Android приложение для генерации случайных пол
 
 ## Пример
 Папка screen_example:
+
 ![1](https://github.com/eXTrimeXT/MyRandomUsers/blob/main/screen_example/1.jpg)
 ![2](https://github.com/eXTrimeXT/MyRandomUsers/blob/main/screen_example/2.jpg)
 ![3](https://github.com/eXTrimeXT/MyRandomUsers/blob/main/screen_example/3.jpg)
